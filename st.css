@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: #223577;
+}
+table
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
